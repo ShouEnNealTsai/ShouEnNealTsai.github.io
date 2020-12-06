@@ -1548,7 +1548,8 @@ input, select, textarea {
 		}
 
 		/* misc */
-		#misc {
+		/*
+		#misc #main article{
 			-moz-transform: translateY(0.25rem);
 			-webkit-transform: translateY(0.25rem);
 			-ms-transform: translateY(0.25rem);
@@ -1565,6 +1566,7 @@ input, select, textarea {
 			border-radius: 4px;
 			opacity: 0;
 		}
+		*/
 		/* misc */
 
 			#main article.active {
