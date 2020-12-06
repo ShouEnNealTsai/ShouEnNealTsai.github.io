@@ -1548,7 +1548,7 @@ input, select, textarea {
 		}
 
 		/* misc */
-		#main article.misc {
+		#misc {
 			-moz-transform: translateY(0.25rem);
 			-webkit-transform: translateY(0.25rem);
 			-ms-transform: translateY(0.25rem);
