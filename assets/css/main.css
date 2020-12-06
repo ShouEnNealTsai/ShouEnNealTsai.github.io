@@ -686,6 +686,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.image.threeFourths img {
+				width: 75%;
+				height: 75%;
+			}
 		@media screen and (max-width: 736px) {
 
 			.image.main {
