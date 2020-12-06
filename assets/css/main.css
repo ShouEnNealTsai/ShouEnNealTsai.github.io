@@ -688,18 +688,18 @@ input, select, textarea {
 				width: 100%;
 			}
 
-			.image.forty img {
+			.image.half img {
 				display:block;
 				margin:auto;
-				width: 40%;
-				height: 40%;
+				width: 50%;
+				height: 50%;
 			}
-			.image.threeFourths img {
+			.image.bg img {
 				display:block;
 				margin:auto;
-				width: 75%;
-				height: 75%;
-			}			
+				width: 37%;
+				height: 37%;
+			}
 
 		@media screen and (max-width: 736px) {
 
