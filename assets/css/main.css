@@ -665,13 +665,6 @@ input, select, textarea {
 			/*padding: 0 0 1em 1.5em;*/
 			top: 0.25em;
 		}
-		.image.rightOlfactory {
-			float: right;
-			/*padding: 0 0 1em 1.5em;*/
-			top: 0.25em;
-			width: 50%;
-			height: 80%;
-		}
 
 		.image.fit {
 			display: block;
@@ -1555,7 +1548,7 @@ input, select, textarea {
 		}
 
 		/* misc */
-		#misc {
+		#main article.misc {
 			-moz-transform: translateY(0.25rem);
 			-webkit-transform: translateY(0.25rem);
 			-ms-transform: translateY(0.25rem);
