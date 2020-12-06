@@ -683,10 +683,14 @@ input, select, textarea {
 		}
 
 			.image.main img {
+				display:block;
+				margin:auto;
 				width: 100%;
 			}
 
 			.image.threeFourths img {
+				display:block;
+				margin:auto;
 				width: 75%;
 				height: 75%;
 			}
